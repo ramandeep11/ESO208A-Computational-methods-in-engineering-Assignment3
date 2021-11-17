@@ -1,0 +1,113 @@
+Least square
+Function: 46.504*x - 343.12*x^2 + 1188.0*x^3 - 2013.9*x^4 + 1672.1*x^5 - 526.06*x^6 - 1.2001
+Coeffecient of Regression: 0.997290
+
+Least square
+Function: 15.364*x - 1.8898
+Coeffecient of Regression: 0.757170
+
+Least square
+Function: 40.279*x^2 - 22.626*x + 2.907
+Coeffecient of Regression: 0.976510
+
+Least square
+Function: 12.917*x - 40.71*x^2 + 50.262*x^3 - 0.0096675
+Coeffecient of Regression: 0.996540
+
+Least square
+Function: 4.7733*x - 4.9728*x^2 - 4.2504*x^3 + 26.747*x^4 + 0.46584
+Coeffecient of Regression: 0.996780
+
+Least square
+Function: 19.504*x - 97.464*x^2 + 226.47*x^3 - 221.16*x^4 + 95.975*x^5 - 0.22599
+Coeffecient of Regression: 0.996980
+
+
+
+Linear spline
+
+Spline coefficients:   a*x + b
+			a			b
+(0)       0.1988      0.2373
+(1)       1.7242      1.0000
+(2)      -1.7242      1.0000
+(3)      -0.1988      0.2373
+Quadratic spline
+
+Spline coefficients:   a*x^2 + b*x + c
+			a			b			c
+(0)       0.3976      0.7952      0.4361
+(1)       2.6532      3.0508      1.0000
+(2)      -9.5500      3.0508      1.0000
+(3)      12.6008    -19.1000      6.5377
+First Order derivative
+			f'			'
+(0)       0.0000
+(1)       0.3976
+(2)       3.0508
+(3)      -6.4992
+(4)       6.1016
+Spline coefficients:   a*x^3 + b*x^2 + c*x + d
+			a			b			c			d
+(0)       2.7286      8.1857      7.7024      2.2837
+(1)      -7.5413     -7.2190      0.0000      1.0000
+(2)       7.5413     -7.2190      0.0000      1.0000
+(3)      -2.7286      8.1857     -7.7024      2.2837
+
+First and second derivative at nodes:
+			f'			f''
+(0)      -0.4833      0.0000
+(1)       1.5631      8.1857
+(2)       0.0000    -14.4381
+(3)      -1.5631      8.1857
+(4)       0.4833      0.0000
+Spline coefficients:   a*x^3 + b*x^2 + c*x + d
+			a			b			c			d
+(0)      -4.9738     -5.9353     -0.0000      1.0000
+(1)      -4.9738     -5.9353     -0.0000      1.0000
+(2)       4.9738     -5.9353      0.0000      1.0000
+(3)       4.9738     -5.9353      0.0000      1.0000
+
+First and second derivative at nodes:
+			f'			f''
+(0)      -3.0508     17.9722
+(1)       2.2050      3.0508
+(2)       0.0000    -11.8706
+(3)      -2.2050      3.0508
+(4)       3.0508     17.9722
+Spline coefficients:   a*x^3 + b*x^2 + c*x + d
+			a			b			c			d
+(0)       0.0000      3.1833      4.9738      1.8290
+(1)      -6.6317     -6.7643      0.0000      1.0000
+(2)       6.6317     -6.7643      0.0000      1.0000
+(3)       0.0000      3.1833     -4.9738      1.8290
+
+First and second derivative at nodes:
+			f'			f''
+(0)      -1.3929      6.3667
+(1)       1.7905      6.3667
+(2)       0.0000    -13.5285
+(3)      -1.7905      6.3667
+(4)       1.3929      6.3667
+Spline coefficients:   a*x^3 + b*x^2 + c*x + d
+			a			b			c			d
+(0)       1.1429      5.2548      6.0810      2.0075
+(1)      -6.9175     -6.8357      0.0357      1.0000
+(2)       6.6317     -6.8357      0.0357      1.0000
+(3)       0.2857      2.6834     -4.7238      1.7933
+
+First and second derivative at nodes:
+			f'			f''
+(0)      -1.0000      3.6523
+(1)       1.6833      7.0810
+(2)       0.0357    -13.6714
+(3)      -1.8262      6.2238
+(4)       1.5000      7.0809
+
+Lagrange
+Function: 3.3159*x^4 - 4.2774*x^2 + 1.0
+
+
+Newton
+Function: 3.3159*x^4 - 4.2774*x^2 + 1.0
+
